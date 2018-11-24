@@ -1,0 +1,18 @@
+$main_color:#836d62;
+$text_color:black;
+$cart_background: rgba(151, 125, 125, 0.74);
+
+
+*,*::before, *::after {
+  box-sizing: border-box;
+
+}
+body{
+  margin: 20px;
+  font: 16px/1.8 'Open Sans', sans-serif;
+
+}
+
+
+@import "header";
+@import "footer";
